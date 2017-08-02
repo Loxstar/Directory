@@ -1,0 +1,35 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: darkgray;
+    
+}
+
+
+img{
+    height: 400px;
+    margin: 40px;
+    border: 10px solid black;
+}
+p{
+    display: flex;
+    justify-content: center;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+     
+}
+
+
+
+h2{
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: roboto;
+    font-size: 50px;
+    background-color: darkslategray;
+    margin:0px;
+    padding: 30px;
+}
